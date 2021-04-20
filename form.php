@@ -17,15 +17,6 @@
     <td><input type='text' name='umur'></td>
    </tr>
    <tr>
-    <td>Alamat</td>
-    <td>:</td>
-    <td><input type='text' name='alamat'></td>
-   </tr>
-   <tr>
-    <td>Status</td>
-    <td>:</td>
-    <td><input type='text' name='status'></td>
-   </tr>
    <tr>
     <td></td>
     <td></td>
