@@ -12,11 +12,6 @@
     <td><input type='text' name='nama'></td>
    </tr>
    <tr>
-    <td>Umur</td>
-    <td>:</td>
-    <td><input type='text' name='umur'></td>
-   </tr>
-   <tr>
     <td>Alamat</td>
     <td>:</td>
     <td><input type='text' name='alamat'></td>
