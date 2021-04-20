@@ -22,6 +22,11 @@
     <td><input type='text' name='alamat'></td>
    </tr>
    <tr>
+    <td>Status</td>
+    <td>:</td>
+    <td><input type='text' name='status'></td>
+   </tr>
+   <tr>
     <td></td>
     <td></td>
     <td><input type='submit' value='kirim'></td>
